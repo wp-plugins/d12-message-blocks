@@ -3,7 +3,7 @@
 Plugin Name: d12 Message Blocks
 Plugin URI: http://kjodle.net/wordpress/d12-message-blocks/
 Description: Adds shortcodes for message blocks.
-Version: 0.2.1
+Version: 1.0
 Author: Kenneth John Odle
 Author URI: http://kjodle.net/
 License: GPL3
