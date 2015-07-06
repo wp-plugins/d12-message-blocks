@@ -20,18 +20,21 @@ Want to see it in action? Check out [my demo page](http://techblog.kjodle.net/20
 
 
 == Installation ==
+
 **From your WordPress dashboard**
+
 1. Visit 'Plugins > Add New'
 1. Search for 'd12 Message Blocks'
-1.  Activate d12 Message Blocksfrom your Plugins page.
+1. Activate d12 Message Blocksfrom your Plugins page.
 
 **From WordPress.org**
+
 1. Download d12 Message Blocks.
-2. Upload the 'd12-message-blocks' directory to your '/wp-content/plugins/' directory, using your favorite method (ftp, sftp, scp, etc...)
-3. Activate d12 Message Blocks from your Plugins page.
+1. Upload the 'd12-message-blocks' directory to your '/wp-content/plugins/' directory, using your favorite method (ftp, sftp, scp, etc...)
+1. Activate d12 Message Blocks from your Plugins page.
 
 
-== FAQ ==
+== Frequently Asked Questions ==
 
 = Will this plugin work with all themes? =
 
