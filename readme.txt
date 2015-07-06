@@ -50,9 +50,9 @@ Yes, just add your changes to a child theme.
 
 = I can't see the toolbar buttons. =
 
-Click on the "Toggle Toolbar" button at the end of the first row (https://make.wordpress.org/support/user-manual/content/editors/visual-editor/#row-2).
+Click on the ["Toggle Toolbar"](https://make.wordpress.org/support/user-manual/content/editors/visual-editor/#row-2) button at the end of the first row.
 
-= Can I add links or list? =
+= Can I add links or lists? =
 
 You can add any html you like in the popup window, and it will be passed to the visual editor. If you are not comfortable editing html, it is easier to add links or lists after you have clicked "OK" and been returned to the visual editor.
 
