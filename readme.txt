@@ -18,6 +18,8 @@ There are two types of message blocks. The first type provides a title and promp
 
 Want to see it in action? Check out [my demo page](http://techblog.kjodle.net/2015/06/28/message-blocks-wordpress-plugin/).
 
+Want to check it out in different themes? Check out [my multi-theme demo page](http://waybeta.net/2015/07/d12-message-blocks-wordpress-plugin/).
+
 
 == Installation ==
 
